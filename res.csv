@@ -7705,3 +7705,823 @@
 1703658488,f1ea8cff6c8b6c8253588fc1cec8a9af,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703658394082,undefined,bus,0,NULL
 1703658488,f1ea8cff6c8b6c8253588fc1cec8a9af,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703658488624,undefined,bus,0,sent_vs;sent_sv
 1703658488,f1ea8cff6c8b6c8253588fc1cec8a9af,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703658488639,undefined,bus,0,NULL
+#
+# Results on Wed, 27 Dec 2023 20:14:13 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1266 (corp) Yowser/2.5 Safari/537.36
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. id.
+# 14. Comments.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Trial_,Start,1703707587648,undefined,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Header_,Start,1703707587648,undefined,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Header_,End,1703707587650,undefined,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,TextInput,age,Final,49,1703707609859,undefined,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,Scale,linguist,Choice,нет,1703707608605,undefined,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Trial_,End,1703707609860,undefined,NULL
+# 14. carriages.
+# 15. 1.
+# 16. Comments.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1703707609866,undefined,carriages,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Header_,Start,1703707609866,undefined,carriages,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Header_,End,1703707609866,undefined,carriages,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703707621321,undefined,carriages,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703707669971,undefined,carriages,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707682958,undefined,carriages,1,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1703707682961,undefined,carriages,1,NULL
+# 14. bows.
+# 15. 2.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Trial_,Start,1703707682964,undefined,bows,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Header_,Start,1703707682964,undefined,bows,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Header_,End,1703707682964,undefined,bows,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,Button,Далее,Click,Click,1703707698035,undefined,bows,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707712837,undefined,bows,2,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Trial_,End,1703707712838,undefined,bows,2,NULL
+# 14. computers.
+# 15. 0.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1703707712840,undefined,computers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Header_,Start,1703707712840,undefined,computers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Header_,End,1703707712840,undefined,computers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,Button,Далее,Click,Click,1703707727573,undefined,computers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707741091,undefined,computers,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1703707741093,undefined,computers,0,NULL
+# 14. lightbulbs.
+# 15. 1.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1703707741094,undefined,lightbulbs,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Header_,Start,1703707741094,undefined,lightbulbs,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Header_,End,1703707741095,undefined,lightbulbs,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,Button,Далее,Click,Click,1703707750663,undefined,lightbulbs,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707760857,undefined,lightbulbs,1,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1703707760858,undefined,lightbulbs,1,NULL
+# 14. lights.
+# 15. 0.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Trial_,Start,1703707760860,undefined,lights,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Header_,Start,1703707760860,undefined,lights,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Header_,End,1703707760860,undefined,lights,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,Button,Далее,Click,Click,1703707764337,undefined,lights,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707780205,undefined,lights,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Trial_,End,1703707780207,undefined,lights,0,NULL
+# 14. tigers.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Trial_,Start,1703707780208,undefined,tigers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Header_,Start,1703707780208,undefined,tigers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Header_,End,1703707780208,undefined,tigers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703707788619,undefined,tigers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707821495,undefined,tigers,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Trial_,End,1703707821497,undefined,tigers,0,NULL
+# 14. books.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Trial_,Start,1703707821498,undefined,books,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Header_,Start,1703707821498,undefined,books,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Header_,End,1703707821499,undefined,books,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,Button,Далее,Click,Click,1703707828096,undefined,books,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707847177,undefined,books,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Trial_,End,1703707847179,undefined,books,0,NULL
+# 14. drawers.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1703707847181,undefined,drawers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Header_,Start,1703707847181,undefined,drawers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Header_,End,1703707847182,undefined,drawers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,Button,Далее,Click,Click,1703707853399,undefined,drawers,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707867917,undefined,drawers,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1703707867919,undefined,drawers,0,NULL
+# 14. castles.
+# 15. 1.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1703707867921,undefined,castles,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Header_,Start,1703707867921,undefined,castles,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Header_,End,1703707867921,undefined,castles,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,Button,Далее,Click,Click,1703707875407,undefined,castles,1,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707884361,undefined,castles,1,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1703707884363,undefined,castles,1,NULL
+# 14. horns.
+# 15. 0.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1703707884364,undefined,horns,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Header_,Start,1703707884364,undefined,horns,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Header_,End,1703707884365,undefined,horns,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,Button,Далее,Click,Click,1703707890297,undefined,horns,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707906440,undefined,horns,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1703707906443,undefined,horns,0,NULL
+# 14. baskets.
+# 15. 2.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1703707906444,undefined,baskets,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Header_,Start,1703707906444,undefined,baskets,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Header_,End,1703707906445,undefined,baskets,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,Button,Далее,Click,Click,1703707911177,undefined,baskets,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707918883,undefined,baskets,2,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1703707918885,undefined,baskets,2,NULL
+# 14. bus.
+# 15. 0.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Trial_,Start,1703707918886,undefined,bus,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Header_,Start,1703707918886,undefined,bus,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Header_,End,1703707918887,undefined,bus,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703707923947,undefined,bus,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703707933747,undefined,bus,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703707933748,undefined,bus,0,NULL
+# 14. buttons.
+# 15. 2.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1703707933750,undefined,buttons,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Header_,Start,1703707933750,undefined,buttons,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Header_,End,1703707933751,undefined,buttons,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,Button,Далее,Click,Click,1703707937268,undefined,buttons,2,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707944159,undefined,buttons,2,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1703707944160,undefined,buttons,2,NULL
+# 14. wheels.
+# 15. 0.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Trial_,Start,1703707944162,undefined,wheels,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Header_,Start,1703707944162,undefined,wheels,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Header_,End,1703707944162,undefined,wheels,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,Button,Далее,Click,Click,1703707949350,undefined,wheels,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707959755,undefined,wheels,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Trial_,End,1703707959756,undefined,wheels,0,NULL
+# 14. guitar.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Trial_,Start,1703707959758,undefined,guitar,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Header_,Start,1703707959758,undefined,guitar,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Header_,End,1703707959758,undefined,guitar,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,Button,Далее,Click,Click,1703707967097,undefined,guitar,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707978576,undefined,guitar,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Trial_,End,1703707978578,undefined,guitar,0,NULL
+# 14. bottles.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Trial_,Start,1703707978580,undefined,bottles,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Header_,Start,1703707978580,undefined,bottles,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Header_,End,1703707978580,undefined,bottles,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703707983958,undefined,bottles,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703707997065,undefined,bottles,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Trial_,End,1703707997067,undefined,bottles,0,NULL
+# 14. guests.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Trial_,Start,1703707997068,undefined,guests,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Header_,Start,1703707997068,undefined,guests,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Header_,End,1703707997068,undefined,guests,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,Button,Далее,Click,Click,1703708000003,undefined,guests,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708011178,undefined,guests,0,sent_vs;sent_sv
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Trial_,End,1703708011180,undefined,guests,0,NULL
+# 14. moscow.
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1703708011182,undefined,moscow,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Header_,Start,1703708011182,undefined,moscow,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Header_,End,1703708011182,undefined,moscow,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,Button,Далее,Click,Click,1703708016371,undefined,moscow,0,NULL
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708053647,undefined,moscow,0,sent_sv;sent_vs
+1703708053,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1703708053649,undefined,moscow,0,NULL
+#
+# Results on Wed, 27 Dec 2023 20:27:50 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1266 (corp) Yowser/2.5 Safari/537.36
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. id.
+# 14. Comments.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Trial_,Start,1703708064797,undefined,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Header_,Start,1703708064797,undefined,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Header_,End,1703708064798,undefined,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,TextInput,age,Final,54,1703708379625,undefined,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,Scale,linguist,Choice,нет,1703708376900,undefined,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,1,0,instructions,NULL,PennController,0,_Trial_,End,1703708379626,undefined,NULL
+# 14. moscow.
+# 15. 0.
+# 16. Comments.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1703708379629,undefined,moscow,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Header_,Start,1703708379629,undefined,moscow,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Header_,End,1703708379629,undefined,moscow,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,Button,Далее,Click,Click,1703708397642,undefined,moscow,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708434774,undefined,moscow,0,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1703708434778,undefined,moscow,0,NULL
+# 14. guitar.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Trial_,Start,1703708434779,undefined,guitar,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Header_,Start,1703708434779,undefined,guitar,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Header_,End,1703708434779,undefined,guitar,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,Button,Далее,Click,Click,1703708445231,undefined,guitar,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708470729,undefined,guitar,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,16,0,experiment,NULL,PennController,16,_Trial_,End,1703708470730,undefined,guitar,0,NULL
+# 14. computers.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1703708470732,undefined,computers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Header_,Start,1703708470732,undefined,computers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Header_,End,1703708470732,undefined,computers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,Button,Далее,Click,Click,1703708483023,undefined,computers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708497317,undefined,computers,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1703708497319,undefined,computers,0,NULL
+# 14. lightbulbs.
+# 15. 1.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1703708497321,undefined,lightbulbs,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Header_,Start,1703708497321,undefined,lightbulbs,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Header_,End,1703708497321,undefined,lightbulbs,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,Button,Далее,Click,Click,1703708501125,undefined,lightbulbs,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708512724,undefined,lightbulbs,1,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1703708512727,undefined,lightbulbs,1,NULL
+# 14. carriages.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1703708512728,undefined,carriages,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Header_,Start,1703708512728,undefined,carriages,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Header_,End,1703708512728,undefined,carriages,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703708515555,undefined,carriages,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708526697,undefined,carriages,1,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1703708526699,undefined,carriages,1,NULL
+# 14. guests.
+# 15. 0.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Trial_,Start,1703708526700,undefined,guests,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Header_,Start,1703708526700,undefined,guests,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Header_,End,1703708526700,undefined,guests,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,Button,Далее,Click,Click,1703708531318,undefined,guests,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708569266,undefined,guests,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,14,0,experiment,NULL,PennController,14,_Trial_,End,1703708569268,undefined,guests,0,NULL
+# 14. bottles.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Trial_,Start,1703708569270,undefined,bottles,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Header_,Start,1703708569270,undefined,bottles,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Header_,End,1703708569270,undefined,bottles,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703708571743,undefined,bottles,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708584999,undefined,bottles,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,13,0,experiment,NULL,PennController,13,_Trial_,End,1703708585001,undefined,bottles,0,NULL
+# 14. bus.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Trial_,Start,1703708585002,undefined,bus,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Header_,Start,1703708585002,undefined,bus,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Header_,End,1703708585002,undefined,bus,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703708587611,undefined,bus,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708604861,undefined,bus,0,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703708604862,undefined,bus,0,NULL
+# 14. castles.
+# 15. 1.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1703708604864,undefined,castles,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Header_,Start,1703708604864,undefined,castles,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Header_,End,1703708604864,undefined,castles,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,Button,Далее,Click,Click,1703708606650,undefined,castles,1,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708624239,undefined,castles,1,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1703708624241,undefined,castles,1,NULL
+# 14. books.
+# 15. 0.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Trial_,Start,1703708624242,undefined,books,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Header_,Start,1703708624242,undefined,books,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Header_,End,1703708624242,undefined,books,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,Button,Далее,Click,Click,1703708626217,undefined,books,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708653400,undefined,books,0,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,17,0,experiment,NULL,PennController,17,_Trial_,End,1703708653402,undefined,books,0,NULL
+# 14. drawers.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1703708653404,undefined,drawers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Header_,Start,1703708653405,undefined,drawers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Header_,End,1703708653406,undefined,drawers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,Button,Далее,Click,Click,1703708656821,undefined,drawers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708677905,undefined,drawers,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1703708677907,undefined,drawers,0,NULL
+# 14. lights.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Trial_,Start,1703708677909,undefined,lights,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Header_,Start,1703708677909,undefined,lights,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Header_,End,1703708677909,undefined,lights,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,Button,Далее,Click,Click,1703708685046,undefined,lights,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708701352,undefined,lights,0,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,19,0,experiment,NULL,PennController,19,_Trial_,End,1703708701354,undefined,lights,0,NULL
+# 14. tigers.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Trial_,Start,1703708701355,undefined,tigers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Header_,Start,1703708701355,undefined,tigers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Header_,End,1703708701356,undefined,tigers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703708704584,undefined,tigers,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708753226,undefined,tigers,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,12,0,experiment,NULL,PennController,12,_Trial_,End,1703708753228,undefined,tigers,0,NULL
+# 14. horns.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1703708753230,undefined,horns,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Header_,Start,1703708753230,undefined,horns,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Header_,End,1703708753230,undefined,horns,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,Button,Далее,Click,Click,1703708756020,undefined,horns,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708774440,undefined,horns,0,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1703708774442,undefined,horns,0,NULL
+# 14. buttons.
+# 15. 2.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1703708774444,undefined,buttons,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Header_,Start,1703708774444,undefined,buttons,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Header_,End,1703708774444,undefined,buttons,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,Button,Далее,Click,Click,1703708776525,undefined,buttons,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708789235,undefined,buttons,2,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1703708789236,undefined,buttons,2,NULL
+# 14. wheels.
+# 15. 0.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Trial_,Start,1703708789238,undefined,wheels,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Header_,Start,1703708789238,undefined,wheels,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Header_,End,1703708789238,undefined,wheels,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,Button,Далее,Click,Click,1703708792907,undefined,wheels,0,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708808745,undefined,wheels,0,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,18,0,experiment,NULL,PennController,18,_Trial_,End,1703708808747,undefined,wheels,0,NULL
+# 14. bows.
+# 15. 2.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Trial_,Start,1703708808748,undefined,bows,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Header_,Start,1703708808748,undefined,bows,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Header_,End,1703708808749,undefined,bows,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,Button,Далее,Click,Click,1703708812149,undefined,bows,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708846255,undefined,bows,2,sent_vs;sent_sv
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,2,0,experiment,NULL,PennController,2,_Trial_,End,1703708846257,undefined,bows,2,NULL
+# 14. baskets.
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1703708846258,undefined,baskets,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Header_,Start,1703708846258,undefined,baskets,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Header_,End,1703708846258,undefined,baskets,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,Button,Далее,Click,Click,1703708851197,undefined,baskets,2,NULL
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708870238,undefined,baskets,2,sent_sv;sent_vs
+1703708870,2b34c9426e465467fbfef9eb65dab6b8,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1703708870240,undefined,baskets,2,NULL
+#
+# Results on Wed, 27 Dec 2023 20:34:18 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+# Design number was non-random = 51
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. id.
+# 14. Comments.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,PennController,0,_Trial_,Start,1703708899255,undefined,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,PennController,0,_Header_,Start,1703708899255,undefined,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,PennController,0,_Header_,End,1703708899256,undefined,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,TextInput,age,Final,20,1703708923401,undefined,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,Scale,linguist,Choice,нет,1703708921799,undefined,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,1,0,instructions,NULL,PennController,0,_Trial_,End,1703708923402,undefined,NULL
+# 14. carriages.
+# 15. 1.
+# 16. Comments.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1703708923414,undefined,carriages,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,PennController,3,_Header_,Start,1703708923414,undefined,carriages,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,PennController,3,_Header_,End,1703708923415,undefined,carriages,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703708945333,undefined,carriages,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703708967964,undefined,carriages,1,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1703708967972,undefined,carriages,1,NULL
+# 14. bottles.
+# 15. 0.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,PennController,13,_Trial_,Start,1703708967978,undefined,bottles,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,PennController,13,_Header_,Start,1703708967978,undefined,bottles,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,PennController,13,_Header_,End,1703708967978,undefined,bottles,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703708972363,undefined,bottles,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703708987195,undefined,bottles,0,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,13,0,experiment,NULL,PennController,13,_Trial_,End,1703708987202,undefined,bottles,0,NULL
+# 14. horns.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1703708987209,undefined,horns,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,PennController,7,_Header_,Start,1703708987209,undefined,horns,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,PennController,7,_Header_,End,1703708987210,undefined,horns,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,Button,Далее,Click,Click,1703708993081,undefined,horns,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709003952,undefined,horns,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1703709003958,undefined,horns,0,NULL
+# 14. wheels.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,PennController,18,_Trial_,Start,1703709003965,undefined,wheels,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,PennController,18,_Header_,Start,1703709003965,undefined,wheels,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,PennController,18,_Header_,End,1703709003965,undefined,wheels,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,Button,Далее,Click,Click,1703709009042,undefined,wheels,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709018968,undefined,wheels,0,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,18,0,experiment,NULL,PennController,18,_Trial_,End,1703709018975,undefined,wheels,0,NULL
+# 14. bows.
+# 15. 2.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,PennController,2,_Trial_,Start,1703709018982,undefined,bows,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,PennController,2,_Header_,Start,1703709018983,undefined,bows,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,PennController,2,_Header_,End,1703709018983,undefined,bows,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,Button,Далее,Click,Click,1703709025750,undefined,bows,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709036651,undefined,bows,2,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,2,0,experiment,NULL,PennController,2,_Trial_,End,1703709036667,undefined,bows,2,NULL
+# 14. lightbulbs.
+# 15. 1.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1703709036675,undefined,lightbulbs,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,PennController,6,_Header_,Start,1703709036675,undefined,lightbulbs,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,PennController,6,_Header_,End,1703709036675,undefined,lightbulbs,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,Button,Далее,Click,Click,1703709040334,undefined,lightbulbs,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709053588,undefined,lightbulbs,1,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1703709053597,undefined,lightbulbs,1,NULL
+# 14. computers.
+# 15. 0.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1703709053603,undefined,computers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,PennController,4,_Header_,Start,1703709053604,undefined,computers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,PennController,4,_Header_,End,1703709053606,undefined,computers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,Button,Далее,Click,Click,1703709057500,undefined,computers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709068348,undefined,computers,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1703709068352,undefined,computers,0,NULL
+# 14. castles.
+# 15. 1.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1703709068364,undefined,castles,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,PennController,9,_Header_,Start,1703709068364,undefined,castles,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,PennController,9,_Header_,End,1703709068364,undefined,castles,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,Button,Далее,Click,Click,1703709070811,undefined,castles,1,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709082964,undefined,castles,1,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1703709082969,undefined,castles,1,NULL
+# 14. baskets.
+# 15. 2.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1703709082977,undefined,baskets,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,PennController,8,_Header_,Start,1703709082977,undefined,baskets,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,PennController,8,_Header_,End,1703709082978,undefined,baskets,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,Button,Далее,Click,Click,1703709086792,undefined,baskets,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709099622,undefined,baskets,2,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1703709099636,undefined,baskets,2,NULL
+# 14. tigers.
+# 15. 0.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,PennController,12,_Trial_,Start,1703709099646,undefined,tigers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,PennController,12,_Header_,Start,1703709099646,undefined,tigers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,PennController,12,_Header_,End,1703709099647,undefined,tigers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703709105962,undefined,tigers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709116377,undefined,tigers,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,12,0,experiment,NULL,PennController,12,_Trial_,End,1703709116386,undefined,tigers,0,NULL
+# 14. guests.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,PennController,14,_Trial_,Start,1703709116396,undefined,guests,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,PennController,14,_Header_,Start,1703709116396,undefined,guests,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,PennController,14,_Header_,End,1703709116396,undefined,guests,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,Button,Далее,Click,Click,1703709119580,undefined,guests,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709133292,undefined,guests,0,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,14,0,experiment,NULL,PennController,14,_Trial_,End,1703709133299,undefined,guests,0,NULL
+# 14. moscow.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1703709133301,undefined,moscow,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,PennController,11,_Header_,Start,1703709133301,undefined,moscow,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,PennController,11,_Header_,End,1703709133301,undefined,moscow,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,Button,Далее,Click,Click,1703709137191,undefined,moscow,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709150359,undefined,moscow,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1703709150363,undefined,moscow,0,NULL
+# 14. bus.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,PennController,15,_Trial_,Start,1703709150366,undefined,bus,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,PennController,15,_Header_,Start,1703709150366,undefined,bus,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,PennController,15,_Header_,End,1703709150367,undefined,bus,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703709152033,undefined,bus,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709163166,undefined,bus,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703709163173,undefined,bus,0,NULL
+# 14. drawers.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1703709163178,undefined,drawers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,PennController,10,_Header_,Start,1703709163178,undefined,drawers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,PennController,10,_Header_,End,1703709163179,undefined,drawers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,Button,Далее,Click,Click,1703709167571,undefined,drawers,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709195574,undefined,drawers,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1703709195581,undefined,drawers,0,NULL
+# 14. buttons.
+# 15. 2.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1703709195590,undefined,buttons,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,PennController,5,_Header_,Start,1703709195590,undefined,buttons,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,PennController,5,_Header_,End,1703709195591,undefined,buttons,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,Button,Далее,Click,Click,1703709197569,undefined,buttons,2,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703709206777,undefined,buttons,2,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1703709206785,undefined,buttons,2,NULL
+# 14. lights.
+# 15. 0.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,PennController,19,_Trial_,Start,1703709206794,undefined,lights,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,PennController,19,_Header_,Start,1703709206794,undefined,lights,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,PennController,19,_Header_,End,1703709206795,undefined,lights,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,Button,Далее,Click,Click,1703709208607,undefined,lights,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709218697,undefined,lights,0,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,19,0,experiment,NULL,PennController,19,_Trial_,End,1703709218704,undefined,lights,0,NULL
+# 14. guitar.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,PennController,16,_Trial_,Start,1703709218713,undefined,guitar,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,PennController,16,_Header_,Start,1703709218713,undefined,guitar,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,PennController,16,_Header_,End,1703709218714,undefined,guitar,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,Button,Далее,Click,Click,1703709221518,undefined,guitar,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709239795,undefined,guitar,0,sent_sv;sent_vs
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,16,0,experiment,NULL,PennController,16,_Trial_,End,1703709239804,undefined,guitar,0,NULL
+# 14. books.
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,PennController,17,_Trial_,Start,1703709239811,undefined,books,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,PennController,17,_Header_,Start,1703709239811,undefined,books,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,PennController,17,_Header_,End,1703709239811,undefined,books,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,Button,Далее,Click,Click,1703709243438,undefined,books,0,NULL
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703709257613,undefined,books,0,sent_vs;sent_sv
+1703709258,bcd5f1973d64b73eaa7f4e6e1e9f1602,PennController,17,0,experiment,NULL,PennController,17,_Trial_,End,1703709257621,undefined,books,0,NULL
+#
+# Results on Thu, 28 Dec 2023 15:26:37 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. id.
+# 14. Comments.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,PennController,0,_Trial_,Start,1703776581033,undefined,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,PennController,0,_Header_,Start,1703776581033,undefined,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,PennController,0,_Header_,End,1703776581034,undefined,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,TextInput,age,Final,21,1703776592037,undefined,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,Scale,linguist,Choice,нет,1703776591124,undefined,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,1,0,instructions,NULL,PennController,0,_Trial_,End,1703776592040,undefined,NULL
+# 14. bottles.
+# 15. 0.
+# 16. Comments.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,PennController,13,_Trial_,Start,1703776592056,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,PennController,13,_Header_,Start,1703776592057,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,PennController,13,_Header_,End,1703776592057,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703776601782,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703776630642,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703776638756,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703776639445,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703776640150,undefined,bottles,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703776654971,undefined,bottles,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,13,0,experiment,NULL,PennController,13,_Trial_,End,1703776654981,undefined,bottles,0,NULL
+# 14. lights.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,PennController,19,_Trial_,Start,1703776654989,undefined,lights,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,PennController,19,_Header_,Start,1703776654989,undefined,lights,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,PennController,19,_Header_,End,1703776654989,undefined,lights,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,Button,Далее,Click,Click,1703776660615,undefined,lights,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703776723098,undefined,lights,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,19,0,experiment,NULL,PennController,19,_Trial_,End,1703776723105,undefined,lights,0,NULL
+# 14. computers.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1703776723112,undefined,computers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,PennController,4,_Header_,Start,1703776723112,undefined,computers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,PennController,4,_Header_,End,1703776723113,undefined,computers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,Button,Далее,Click,Click,1703776733127,undefined,computers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703776808992,undefined,computers,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1703776809001,undefined,computers,0,NULL
+# 14. guitar.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,PennController,16,_Trial_,Start,1703776809009,undefined,guitar,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,PennController,16,_Header_,Start,1703776809009,undefined,guitar,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,PennController,16,_Header_,End,1703776809010,undefined,guitar,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,Button,Далее,Click,Click,1703776827016,undefined,guitar,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776846954,undefined,guitar,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,16,0,experiment,NULL,PennController,16,_Trial_,End,1703776846965,undefined,guitar,0,NULL
+# 14. guests.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,PennController,14,_Trial_,Start,1703776846976,undefined,guests,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,PennController,14,_Header_,Start,1703776846976,undefined,guests,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,PennController,14,_Header_,End,1703776846977,undefined,guests,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,Button,Далее,Click,Click,1703776849170,undefined,guests,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776864008,undefined,guests,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,14,0,experiment,NULL,PennController,14,_Trial_,End,1703776864010,undefined,guests,0,NULL
+# 14. books.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,PennController,17,_Trial_,Start,1703776864012,undefined,books,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,PennController,17,_Header_,Start,1703776864012,undefined,books,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,PennController,17,_Header_,End,1703776864012,undefined,books,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,Button,Далее,Click,Click,1703776868002,undefined,books,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776893034,undefined,books,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,17,0,experiment,NULL,PennController,17,_Trial_,End,1703776893038,undefined,books,0,NULL
+# 14. drawers.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1703776893042,undefined,drawers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,PennController,10,_Header_,Start,1703776893042,undefined,drawers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,PennController,10,_Header_,End,1703776893043,undefined,drawers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,Button,Далее,Click,Click,1703776902591,undefined,drawers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776925273,undefined,drawers,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1703776925279,undefined,drawers,0,NULL
+# 14. castles.
+# 15. 1.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1703776925290,undefined,castles,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,PennController,9,_Header_,Start,1703776925290,undefined,castles,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,PennController,9,_Header_,End,1703776925291,undefined,castles,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,Button,Далее,Click,Click,1703776929426,undefined,castles,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776956235,undefined,castles,1,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1703776956239,undefined,castles,1,NULL
+# 14. bows.
+# 15. 2.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,PennController,2,_Trial_,Start,1703776956244,undefined,bows,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,PennController,2,_Header_,Start,1703776956244,undefined,bows,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,PennController,2,_Header_,End,1703776956244,undefined,bows,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,Button,Далее,Click,Click,1703776958920,undefined,bows,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703776983338,undefined,bows,2,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,2,0,experiment,NULL,PennController,2,_Trial_,End,1703776983345,undefined,bows,2,NULL
+# 14. moscow.
+# 15. 0.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1703776983352,undefined,moscow,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,PennController,11,_Header_,Start,1703776983352,undefined,moscow,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,PennController,11,_Header_,End,1703776983353,undefined,moscow,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,Button,Далее,Click,Click,1703776987592,undefined,moscow,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777026326,undefined,moscow,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1703777026333,undefined,moscow,0,NULL
+# 14. horns.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1703777026344,undefined,horns,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,PennController,7,_Header_,Start,1703777026344,undefined,horns,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,PennController,7,_Header_,End,1703777026344,undefined,horns,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,Button,Далее,Click,Click,1703777031971,undefined,horns,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777044857,undefined,horns,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1703777044863,undefined,horns,0,NULL
+# 14. carriages.
+# 15. 1.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1703777044873,undefined,carriages,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,PennController,3,_Header_,Start,1703777044873,undefined,carriages,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,PennController,3,_Header_,End,1703777044874,undefined,carriages,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703777062288,undefined,carriages,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703777077275,undefined,carriages,1,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1703777077284,undefined,carriages,1,NULL
+# 14. baskets.
+# 15. 2.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1703777077291,undefined,baskets,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,PennController,8,_Header_,Start,1703777077291,undefined,baskets,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,PennController,8,_Header_,End,1703777077291,undefined,baskets,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,Button,Далее,Click,Click,1703777080798,undefined,baskets,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777086784,undefined,baskets,2,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1703777086796,undefined,baskets,2,NULL
+# 14. wheels.
+# 15. 0.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,PennController,18,_Trial_,Start,1703777086803,undefined,wheels,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,PennController,18,_Header_,Start,1703777086803,undefined,wheels,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,PennController,18,_Header_,End,1703777086804,undefined,wheels,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,Button,Далее,Click,Click,1703777089706,undefined,wheels,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777098296,undefined,wheels,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,18,0,experiment,NULL,PennController,18,_Trial_,End,1703777098300,undefined,wheels,0,NULL
+# 14. bus.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,PennController,15,_Trial_,Start,1703777098304,undefined,bus,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,PennController,15,_Header_,Start,1703777098304,undefined,bus,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,PennController,15,_Header_,End,1703777098305,undefined,bus,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703777104358,undefined,bus,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703777127986,undefined,bus,0,sent_vs;sent_sv
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703777127988,undefined,bus,0,NULL
+# 14. buttons.
+# 15. 2.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1703777127990,undefined,buttons,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,PennController,5,_Header_,Start,1703777127990,undefined,buttons,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,PennController,5,_Header_,End,1703777127990,undefined,buttons,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,Button,Далее,Click,Click,1703777132929,undefined,buttons,2,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777141895,undefined,buttons,2,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1703777141907,undefined,buttons,2,NULL
+# 14. tigers.
+# 15. 0.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,PennController,12,_Trial_,Start,1703777141914,undefined,tigers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,PennController,12,_Header_,Start,1703777141914,undefined,tigers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,PennController,12,_Header_,End,1703777141915,undefined,tigers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703777150914,undefined,tigers,0,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703777188269,undefined,tigers,0,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,12,0,experiment,NULL,PennController,12,_Trial_,End,1703777188275,undefined,tigers,0,NULL
+# 14. lightbulbs.
+# 15. 1.
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1703777188281,undefined,lightbulbs,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,PennController,6,_Header_,Start,1703777188281,undefined,lightbulbs,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,PennController,6,_Header_,End,1703777188281,undefined,lightbulbs,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,Button,Далее,Click,Click,1703777190490,undefined,lightbulbs,1,NULL
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703777198123,undefined,lightbulbs,1,sent_sv;sent_vs
+1703777197,7ba5f510870bf0acd185b2eb5e7e1a10,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1703777198131,undefined,lightbulbs,1,NULL
+#
+# Results on Thu, 28 Dec 2023 16:16:07 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. id.
+# 14. Comments.
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,PennController,0,_Trial_,Start,1703779612941,undefined,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,PennController,0,_Header_,Start,1703779612941,undefined,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,PennController,0,_Header_,End,1703779612944,undefined,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,TextInput,age,Final,56,1703779703023,undefined,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,Scale,linguist,Choice,нет,1703779691493,undefined,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,1,0,instructions,NULL,PennController,0,_Trial_,End,1703779703024,undefined,NULL
+# 14. moscow.
+# 15. 0.
+# 16. Comments.
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,PennController,11,_Trial_,Start,1703779703030,undefined,moscow,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,PennController,11,_Header_,Start,1703779703030,undefined,moscow,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,PennController,11,_Header_,End,1703779703031,undefined,moscow,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,Button,Далее,Click,Click,1703779710859,undefined,moscow,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703779724093,undefined,moscow,0,sent_sv;sent_vs
+1703780167,40891259f157ce52b98711356a66237c,PennController,11,0,experiment,NULL,PennController,11,_Trial_,End,1703779724099,undefined,moscow,0,NULL
+# 14. guests.
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,PennController,14,_Trial_,Start,1703779724101,undefined,guests,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,PennController,14,_Header_,Start,1703779724101,undefined,guests,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,PennController,14,_Header_,End,1703779724102,undefined,guests,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,Button,Далее,Click,Click,1703779735522,undefined,guests,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779749802,undefined,guests,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,14,0,experiment,NULL,PennController,14,_Trial_,End,1703779749805,undefined,guests,0,NULL
+# 14. tigers.
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,PennController,12,_Trial_,Start,1703779749807,undefined,tigers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,PennController,12,_Header_,Start,1703779749807,undefined,tigers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,PennController,12,_Header_,End,1703779749808,undefined,tigers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703779757674,undefined,tigers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,Button,Далее,Click,Click,1703779762834,undefined,tigers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779778866,undefined,tigers,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,12,0,experiment,NULL,PennController,12,_Trial_,End,1703779778869,undefined,tigers,0,NULL
+# 14. lightbulbs.
+# 15. 1.
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,PennController,6,_Trial_,Start,1703779778870,undefined,lightbulbs,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,PennController,6,_Header_,Start,1703779778870,undefined,lightbulbs,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,PennController,6,_Header_,End,1703779778871,undefined,lightbulbs,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,Button,Далее,Click,Click,1703779793825,undefined,lightbulbs,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703779806617,undefined,lightbulbs,1,sent_sv;sent_vs
+1703780167,40891259f157ce52b98711356a66237c,PennController,6,0,experiment,NULL,PennController,6,_Trial_,End,1703779806622,undefined,lightbulbs,1,NULL
+# 14. bows.
+# 15. 2.
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,PennController,2,_Trial_,Start,1703779806624,undefined,bows,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,PennController,2,_Header_,Start,1703779806624,undefined,bows,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,PennController,2,_Header_,End,1703779806624,undefined,bows,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,Button,Далее,Click,Click,1703779823033,undefined,bows,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703779845793,undefined,bows,2,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,2,0,experiment,NULL,PennController,2,_Trial_,End,1703779845796,undefined,bows,2,NULL
+# 14. drawers.
+# 15. 0.
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,PennController,10,_Trial_,Start,1703779845797,undefined,drawers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,PennController,10,_Header_,Start,1703779845797,undefined,drawers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,PennController,10,_Header_,End,1703779845798,undefined,drawers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,Button,Далее,Click,Click,1703779858081,undefined,drawers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779873761,undefined,drawers,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,10,0,experiment,NULL,PennController,10,_Trial_,End,1703779873766,undefined,drawers,0,NULL
+# 14. computers.
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,PennController,4,_Trial_,Start,1703779873768,undefined,computers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,PennController,4,_Header_,Start,1703779873768,undefined,computers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,PennController,4,_Header_,End,1703779873768,undefined,computers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,Button,Далее,Click,Click,1703779893265,undefined,computers,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703779920728,undefined,computers,0,sent_sv;sent_vs
+1703780167,40891259f157ce52b98711356a66237c,PennController,4,0,experiment,NULL,PennController,4,_Trial_,End,1703779920732,undefined,computers,0,NULL
+# 14. buttons.
+# 15. 2.
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,PennController,5,_Trial_,Start,1703779920734,undefined,buttons,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,PennController,5,_Header_,Start,1703779920734,undefined,buttons,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,PennController,5,_Header_,End,1703779920735,undefined,buttons,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,Button,Далее,Click,Click,1703779925513,undefined,buttons,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779935488,undefined,buttons,2,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,5,0,experiment,NULL,PennController,5,_Trial_,End,1703779935493,undefined,buttons,2,NULL
+# 14. wheels.
+# 15. 0.
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,PennController,18,_Trial_,Start,1703779935495,undefined,wheels,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,PennController,18,_Header_,Start,1703779935495,undefined,wheels,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,PennController,18,_Header_,End,1703779935496,undefined,wheels,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,Button,Далее,Click,Click,1703779942096,undefined,wheels,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779956664,undefined,wheels,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,18,0,experiment,NULL,PennController,18,_Trial_,End,1703779956668,undefined,wheels,0,NULL
+# 14. castles.
+# 15. 1.
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,PennController,9,_Trial_,Start,1703779956670,undefined,castles,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,PennController,9,_Header_,Start,1703779956670,undefined,castles,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,PennController,9,_Header_,End,1703779956671,undefined,castles,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,Button,Далее,Click,Click,1703779963336,undefined,castles,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779977672,undefined,castles,1,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,9,0,experiment,NULL,PennController,9,_Trial_,End,1703779977675,undefined,castles,1,NULL
+# 14. baskets.
+# 15. 2.
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,PennController,8,_Trial_,Start,1703779977677,undefined,baskets,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,PennController,8,_Header_,Start,1703779977677,undefined,baskets,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,PennController,8,_Header_,End,1703779977677,undefined,baskets,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,Button,Далее,Click,Click,1703779980424,undefined,baskets,2,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703779990607,undefined,baskets,2,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,8,0,experiment,NULL,PennController,8,_Trial_,End,1703779990611,undefined,baskets,2,NULL
+# 14. carriages.
+# 15. 1.
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,PennController,3,_Trial_,Start,1703779990612,undefined,carriages,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,PennController,3,_Header_,Start,1703779990612,undefined,carriages,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,PennController,3,_Header_,End,1703779990613,undefined,carriages,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,Button,Далее,Click,Click,1703780004911,undefined,carriages,1,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703780014463,undefined,carriages,1,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,3,0,experiment,NULL,PennController,3,_Trial_,End,1703780014467,undefined,carriages,1,NULL
+# 14. lights.
+# 15. 0.
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,PennController,19,_Trial_,Start,1703780014469,undefined,lights,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,PennController,19,_Header_,Start,1703780014469,undefined,lights,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,PennController,19,_Header_,End,1703780014469,undefined,lights,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,Button,Далее,Click,Click,1703780018431,undefined,lights,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703780035399,undefined,lights,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,19,0,experiment,NULL,PennController,19,_Trial_,End,1703780035402,undefined,lights,0,NULL
+# 14. books.
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,PennController,17,_Trial_,Start,1703780035404,undefined,books,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,PennController,17,_Header_,Start,1703780035404,undefined,books,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,PennController,17,_Header_,End,1703780035404,undefined,books,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,Button,Далее,Click,Click,1703780053687,undefined,books,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703780063311,undefined,books,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,17,0,experiment,NULL,PennController,17,_Trial_,End,1703780063315,undefined,books,0,NULL
+# 14. guitar.
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,PennController,16,_Trial_,Start,1703780063317,undefined,guitar,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,PennController,16,_Header_,Start,1703780063317,undefined,guitar,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,PennController,16,_Header_,End,1703780063317,undefined,guitar,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,Button,Далее,Click,Click,1703780073775,undefined,guitar,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703780100979,undefined,guitar,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,16,0,experiment,NULL,PennController,16,_Trial_,End,1703780100982,undefined,guitar,0,NULL
+# 14. bottles.
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,PennController,13,_Trial_,Start,1703780100984,undefined,bottles,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,PennController,13,_Header_,Start,1703780100984,undefined,bottles,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,PennController,13,_Header_,End,1703780100984,undefined,bottles,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,Button,Далее,Click,Click,1703780104535,undefined,bottles,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703780120682,undefined,bottles,0,sent_sv;sent_vs
+1703780167,40891259f157ce52b98711356a66237c,PennController,13,0,experiment,NULL,PennController,13,_Trial_,End,1703780120686,undefined,bottles,0,NULL
+# 14. bus.
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,PennController,15,_Trial_,Start,1703780120688,undefined,bus,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,PennController,15,_Header_,Start,1703780120688,undefined,bus,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,PennController,15,_Header_,End,1703780120688,undefined,bus,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,Button,Далее,Click,Click,1703780122331,undefined,bus,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,Selector,answer,Selection,sent_sv,1703780141422,undefined,bus,0,sent_sv;sent_vs
+1703780167,40891259f157ce52b98711356a66237c,PennController,15,0,experiment,NULL,PennController,15,_Trial_,End,1703780141425,undefined,bus,0,NULL
+# 14. horns.
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,PennController,7,_Trial_,Start,1703780141427,undefined,horns,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,PennController,7,_Header_,Start,1703780141427,undefined,horns,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,PennController,7,_Header_,End,1703780141428,undefined,horns,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,Button,Далее,Click,Click,1703780148738,undefined,horns,0,NULL
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,Selector,answer,Selection,sent_vs,1703780157810,undefined,horns,0,sent_vs;sent_sv
+1703780167,40891259f157ce52b98711356a66237c,PennController,7,0,experiment,NULL,PennController,7,_Trial_,End,1703780157812,undefined,horns,0,NULL
